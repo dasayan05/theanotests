@@ -1,2 +1,3 @@
 # theanotests
-Deep Learning models written in theano
+
+testing deep models with theano
